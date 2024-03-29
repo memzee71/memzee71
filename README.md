@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# Mazu Ismail
+This is my GitHUb account. 
+
+🔭 I am learning **Python** on [HyperionDev Bootcamp](https://www.hyperiondev.com/).
+I want to start a career as a Data Scientist.  I have am acquiring the technical skills that I need and believe that I have all the other necessary attributes that will enable me to be successful in this field. 
+
+![Python Code](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*XXI-kg18liPn4XcfZmoqQQ.jpeg)
 
 <!--
 **memzee71/memzee71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
